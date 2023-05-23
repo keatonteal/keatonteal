@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @keatonteal
-- 👀 I’m interested in ... inline skating and video games
-- 🌱 I’m currently learning ... Kotlin! and some IT networking
-- 💞️ I’m looking to collaborate on ... shoot, I don't even know what I'm doing
-- 📫 How to reach me ... keatonteal@gmail.com
+<strong> Greetings, </strong> I am Keaton.
+<p> I am a school psychologist in the Dayton, OH area. I'm learning Javascript in order to better suit my team's needs; maybe even other teams in the future.
+<p> I enjoy rollerblading and creating content on YouTube. <a href="https://www.youtube.com/@teali0">@Teali0</a>
 
 <!---
 keatonteal/keatonteal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
